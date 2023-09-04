@@ -7,7 +7,7 @@ about: Create a report to help us fix a problem with Sublime Merge
 **Version info**
 
  - OS: [e.g. macOS 10.14, Windows 10, Ubuntu 18.04]
- - Build: [e.g. 1062 - type "About" in the command palette]
+ - Sublime Merge Build: [e.g. 2091 - type "About" in the command palette]
 
 **Description**
 
